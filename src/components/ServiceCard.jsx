@@ -28,7 +28,7 @@
 //         <h1 className="text-4xl font-bold text-primary">Our Services</h1>
 //       </div>
 //       <div className="container mx-auto px-4">
-//         <ServiceCard services={servicesData} /> {/*  Ensure data is passed correctly */}
+//         <ServiceCard services={servicesData} /> {/* 🔥 Ensure data is passed correctly */}
 //       </div>
 //     </div>
 //   );

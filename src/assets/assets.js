@@ -69,7 +69,21 @@ export const projectsData = [
     price: "₹3,00,00,000",
     location: "Bodh Gaya, Bihar",
     image: project_img_6
+  },
+
+  {
+    title: "Nalanda Heights",
+    price: "₹2,50,00,000",
+    location: "Nalanda, Bihar",
+    image: project_img_1
+  },
+  {
+    title: "Patna Elite Towers",
+    price: "₹4,20,00,000",
+    location: "Patna, Bihar",
+    image: project_img_3
   }
+  
 ];
 
 
