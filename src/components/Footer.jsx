@@ -15,7 +15,6 @@ const Footer = () => {
                 <a href="#" className='hover:text-white'>Home</a>
                 <a href="#About" className='hover:text-white'>About us</a>
                 <a href="#Contact" className='hover:text-white'>Contact us</a>
-                <a href="#" className='hover:text-white'>Privacy policy</a>
             </ul>
         </div>
         
